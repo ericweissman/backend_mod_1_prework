@@ -1,6 +1,6 @@
 # Backend Mod 1 Pre-work Repository
 
-This repository will walk you through the Mod 1 Pre-work for the Backend program at Turing.
+This repository will walk you through the Mod 1 Pre-work for the Backend program at Turing. A
 
 Each day has a folder containing a `README.md` file with instructions for the section, exercises, and questions. Please complete all the exercises and questions, as well as lessons listed in the section's README.
 
